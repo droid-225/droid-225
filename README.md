@@ -5,7 +5,6 @@
 🤖 Future Robotics Engineer<br/>
 🌱 Love to Learn and Grow Everyday<br/>
 LinkedIn: https://www.linkedin.com/in/rishitshah03/
-Instagram: https://www.instagram.com/ri.shi.t/
 
 
 # 💻 Tech Stack:
