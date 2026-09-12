@@ -1,6 +1,6 @@
 ## Hi there, I'm Rishit Shah 👋
 
-💻 Computer Science and Engineering Student at KPGU<br/>
+🏫 MS Robotics Student at Northeastern University<br/>
 👾 I Code Random Projects (Personal and College Related)<br/>
 🤖 Future Robotics Engineer<br/>
 🌱 Love to Learn and Grow Everyday<br/>
